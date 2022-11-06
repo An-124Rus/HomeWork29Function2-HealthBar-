@@ -1,0 +1,15 @@
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\bin\Debug\net6.0\HomeWork29Function2(HealthBar).exe
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\bin\Debug\net6.0\HomeWork29Function2(HealthBar).deps.json
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\bin\Debug\net6.0\HomeWork29Function2(HealthBar).runtimeconfig.json
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\bin\Debug\net6.0\HomeWork29Function2(HealthBar).dll
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\bin\Debug\net6.0\HomeWork29Function2(HealthBar).pdb
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\obj\Debug\net6.0\HomeWork29Function2(HealthBar).csproj.AssemblyReference.cache
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\obj\Debug\net6.0\HomeWork29Function2(HealthBar).GeneratedMSBuildEditorConfig.editorconfig
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\obj\Debug\net6.0\HomeWork29Function2(HealthBar).AssemblyInfoInputs.cache
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\obj\Debug\net6.0\HomeWork29Function2(HealthBar).AssemblyInfo.cs
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\obj\Debug\net6.0\HomeWork29Function2(HealthBar).csproj.CoreCompileInputs.cache
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\obj\Debug\net6.0\HomeWork29Function2(HealthBar).dll
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\obj\Debug\net6.0\refint\HomeWork29Function2(HealthBar).dll
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\obj\Debug\net6.0\HomeWork29Function2(HealthBar).pdb
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\obj\Debug\net6.0\HomeWork29Function2(HealthBar).genruntimeconfig.cache
+E:\CSlight\HomeWork29Function2(HealthBar)\HomeWork29Function2(HealthBar)\obj\Debug\net6.0\ref\HomeWork29Function2(HealthBar).dll
