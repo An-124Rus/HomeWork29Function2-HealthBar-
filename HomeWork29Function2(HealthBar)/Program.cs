@@ -5,10 +5,10 @@
         int currentValue = 40;
         int maxValue = 100;
         
-        Bar(currentValue, maxValue, ConsoleColor.Red, 3, 1);
+        DrawBar(currentValue, maxValue, ConsoleColor.Red, 3, 1);
     }
 
-    static void Bar(int currentValue, int maxValue, ConsoleColor color, int columnPosition, int linePosition)
+    static void DrawBar(int currentValue, int maxValue, ConsoleColor color, int columnPosition, int linePosition)
     {
         ConsoleColor defaultColor = Console.BackgroundColor;
 
